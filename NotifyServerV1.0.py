@@ -3,6 +3,7 @@ import praw
 import time
 import requests
 import os
+heroku buildpacks:set heroku/python
 
 authors = [
     'organic_crystal_meth', 'SlothySurprise', 'bleach_tastes_bad', 'lukenamop', 'blkmmb', 'iscatmypants'

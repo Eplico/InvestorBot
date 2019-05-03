@@ -8,7 +8,7 @@ authors = [
     'organic_crystal_meth', 'SlothySurprise', 'bleach_tastes_bad', 'lukenamop', 'blkmmb', 'iscatmypants', 't3karnOnYoAzz'
 ]
 # discord webhook url as variable for ease
-DWU = 'https://discordapp.com/api/webhooks/562009771587272724/S_lNTtWogUbnyhKH8HIPQTPI2OxdXSD2_hypCVTxi2SKBAbPPX9SC4Tg7aK_ZHX0YtGW'
+DWU = 'https://discordapp.com/api/webhooks/573591094491611136/-baoU5nY7JFrDoTe7jcwyFhZ3yWnXaZ5YCfW1PJL-LstFpofIElIlYdXJ1-r_c10zvr-'
 
 message = " Has Posted!! Go Invest Now, Before Its Too Late!! "
 
